@@ -4,8 +4,8 @@
 %global crate heck
 
 Name:           rust-%{crate}
-Version:        0.3.2
-Release:        2
+Version:        0.4.0
+Release:        1
 Summary:        Case conversion library
 
 # Upstream license specification: MIT OR Apache-2.0
