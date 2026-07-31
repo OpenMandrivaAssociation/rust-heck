@@ -4,7 +4,7 @@
 %global crate heck
 
 Name:           rust-%{crate}
-Version:        0.4.0
+Version:        0.5.0
 Release:        1
 Summary:        Case conversion library
 
